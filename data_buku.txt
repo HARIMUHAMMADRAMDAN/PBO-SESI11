@@ -1,0 +1,11 @@
+Laskar Pelangi,Andrea Hirata,Budi Santoso
+Bumi Manusia,Pramoedya Ananta Toer,Siti Nurhayati
+Negeri 5 Menara,Ahmad Fuadi,Ahmad Syafii
+Supernova: Ksatria, Puteri, dan Bintang Jatuh,Dee Lestari,Rina Andriani
+Ayat-ayat Cinta,Habiburrahman El Shirazy,Muhammad Farhan
+Cantik Itu Luka,Eka Kurniawan,Dewi Anggraeni
+Perahu Kertas,Dee Lestari,Fajar Wicaksono
+5 CM,Donny Dhirgantoro,Nisa Rahmawati
+Saman,Ayu Utami,Tri Nugroho
+Tetralogi Buru: Anak Semua Bangsa,Pramoedya Ananta Toer,Rudi HartonoPemrogramman Java,Pengarang 1,false
+Pemrogramman PHP,Pengarang 11,true
